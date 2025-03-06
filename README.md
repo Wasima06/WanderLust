@@ -1,4 +1,5 @@
-# [WanderLust](https://wanderlust-vaa1.onrender.com/listings) (Airbnb Clone)
+ HEAD
+
 
 Welcome to the WanderLust (Airbnb Clone) project! This repository contains a full-featured web application that replicates many of the core functionalities of Airbnb. Users can create accounts, list properties, and rent properties from other users. This project demonstrates the use of several modern web technologies and follows the MVC (Model-View-Controller) design pattern.
 
@@ -44,7 +45,7 @@ Welcome to the WanderLust (Airbnb Clone) project! This repository contains a ful
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Harsha-Vardhini-Sujanmulk/WanderLust.git
+   git clone https://github.com/Wasima06/WanderLust.git
    cd WanderLust
    ```
 
@@ -119,3 +120,6 @@ Contributions are welcome! Please fork the repository and use a feature branch. 
 (PS: the site may or may not work a bit slow as all the free services are being used for this)
 
 Thank you for visiting the WanderLust project! Happy coding!
+
+# WanderLust
+ origin/main
